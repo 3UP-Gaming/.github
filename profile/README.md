@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../art/3_up_mono.png" alt="3UP Gaming" width="380" style="max-width: 100%; height: auto;">
+  <img src="../art/logo.png" alt="3UP Gaming" width="380" style="max-width: 100%; height: auto;">
 
   <h1>3UP Gaming</h1>
   <p><strong>Powering the next generation of online poker.</strong><br>
