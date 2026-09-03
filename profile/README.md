@@ -1,3 +1,5 @@
+<img src="../art/3_up_mono.png" alt="3UP Gaming" width="320" style="max-width: 100%;">
+
 ### Hi, we're 3UP Gaming
 
 We build secure, customizable poker software and iGaming solutions for operators, startups, and gaming entrepreneurs. From a focused poker product to a complete turnkey launch, our platform is designed for real-time performance, flexible branding, and growth across web, desktop, and mobile.
